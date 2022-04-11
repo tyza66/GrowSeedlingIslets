@@ -1,0 +1,1 @@
+<view><view class="top"></view><view class="bg"></view><view class="content"><view class="m _p">选择你的年龄段：</view><view data-event-opts="{{[['tap',[['ys1']]]]}}" class="ys" bindtap="__e"><view class="_p">1-3年级</view></view><view data-event-opts="{{[['tap',[['sl1']]]]}}" class="sl" bindtap="__e"><view class="_p">4-6年级</view></view></view></view>

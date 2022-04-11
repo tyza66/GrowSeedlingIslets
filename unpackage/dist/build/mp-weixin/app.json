@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/xx/xx",
+    "pages/jz/jz",
+    "pages/xdbwg/xdbwg",
+    "pages/nl/nl",
+    "pages/ceshi/ceshi",
+    "pages/youxidao/youxidao",
+    "pages/xuexi/xuexi",
+    "pages/shequ/shequ",
+    "pages/shuiba/shuiba",
+    "pages/jiayouzhan/jiayouzhan",
+    "pages/chaoshi/chaoshi",
+    "pages/youxiang/youxiang"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom",
+    "scrollIndicator": "none"
+  },
+  "usingComponents": {}
+}
