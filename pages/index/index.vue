@@ -74,7 +74,7 @@
 		.xx{
 			width: 450rpx;
 			height: 90rpx;
-			background: yellow;
+			background: gold;
 			border-radius: 35rpx;
 			border: #F0AD4E solid 5rpx;
 			margin: 0 auto;
@@ -88,9 +88,9 @@
 		.jz{
 			width: 450rpx;
 			height: 90rpx;
-			background: yellow;
+			background: gold;
 			border-radius: 35rpx;
-			border: #2C405A solid 5rpx;
+			border: #F0AD4E solid 5rpx;
 			margin: 0 auto;
 			display: flex;
 			flex-direction: row;

@@ -90,7 +90,7 @@
 		.ys{
 			width: 450rpx;
 			height: 90rpx;
-			background: yellow;
+			background: gold;
 			border-radius: 35rpx;
 			border: #2C405A solid 5rpx;
 			margin: 0 auto;
@@ -104,7 +104,7 @@
 		.sl{
 			width: 450rpx;
 			height: 90rpx;
-			background: yellow;
+			background: gold;
 			border-radius: 35rpx;
 			border: #2C405A solid 5rpx;
 			margin: 0 auto;
