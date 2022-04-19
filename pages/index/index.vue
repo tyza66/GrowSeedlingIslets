@@ -3,13 +3,8 @@
 		<view class="top"></view>
 		<view class="bg"></view>
 		<view class="content">
-			<image class="ym" src="../../static/ym.png"></image>
 			<view class="xx" @click="xuesheng()"><p>←学生这边走</p></view>
 			<view class="jz" @click="jiazhang()"><p>家长这边走→</p></view>
-			<p class="p1">一座座小岛</p>
-			<p class="p2">生长着知识的果实</p>
-			<p class="p3">一座座小岛</p>
-			<p class="p4">照耀着希望的光</p>
 		</view>
 	</view>
 </template>
@@ -79,7 +74,7 @@
 		.xx{
 			width: 450rpx;
 			height: 90rpx;
-			background: gold;
+			background: yellow;
 			border-radius: 35rpx;
 			border: #F0AD4E solid 5rpx;
 			margin: 0 auto;
@@ -87,11 +82,13 @@
 			flex-direction: row;
 			justify-content: center;
 			align-items: center;
+			margin-top: 400rpx;
+			font-weight: 600;
 		}
 		.jz{
 			width: 450rpx;
 			height: 90rpx;
-			background: #007AFF;
+			background: yellow;
 			border-radius: 35rpx;
 			border: #2C405A solid 5rpx;
 			margin: 0 auto;
@@ -100,6 +97,7 @@
 			justify-content: center;
 			align-items: center;
 			margin-top: 50rpx;
+			font-weight: 600;
 		}
 		.wz{
 			isplay: flex;

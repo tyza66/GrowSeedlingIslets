@@ -67,7 +67,7 @@
 			z-index: -10;
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
-			background-image: url(https://s2.loli.net/2022/04/10/bwJKW14tvefyR3Y.png);
+			background-image: url(https://s2.loli.net/2022/04/19/FzIkP2clOdmU5Tw.jpg);
 		}
 		.content{
 			position: fixed;
@@ -90,7 +90,7 @@
 		.ys{
 			width: 450rpx;
 			height: 90rpx;
-			background: #4CD964;
+			background: yellow;
 			border-radius: 35rpx;
 			border: #2C405A solid 5rpx;
 			margin: 0 auto;
@@ -99,11 +99,12 @@
 			justify-content: center;
 			align-items: center;
 			margin-top: 50rpx;
+			font-weight: 600;
 		}
 		.sl{
 			width: 450rpx;
 			height: 90rpx;
-			background: #006600;
+			background: yellow;
 			border-radius: 35rpx;
 			border: #2C405A solid 5rpx;
 			margin: 0 auto;
@@ -112,6 +113,7 @@
 			justify-content: center;
 			align-items: center;
 			margin-top: 50rpx;
+			font-weight: 600;
 		}
 		.wz{
 			isplay: flex;
