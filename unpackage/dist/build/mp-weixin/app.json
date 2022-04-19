@@ -23,5 +23,6 @@
     "navigationStyle": "custom",
     "scrollIndicator": "none"
   },
-  "usingComponents": {}
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
 }

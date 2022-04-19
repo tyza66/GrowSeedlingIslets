@@ -79,7 +79,7 @@
 			z-index: -10; 
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
-			background-image: url(https://s2.loli.net/2022/04/10/bwJKW14tvefyR3Y.png);
+			background-image: url(https://s2.loli.net/2022/04/19/ZN7RcMHGKbg4Ia1.jpg);
 		}
 		.content{
 			position: fixed;
@@ -94,6 +94,9 @@
 		.wenzi{
 			text-align: center;
 			font-weight: 400;
+			font-size: 40rpx;
+			font-family: '幼圆';
+			color: #006600;
 		}
 		.d1{
 			position: absolute;

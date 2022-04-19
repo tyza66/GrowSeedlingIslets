@@ -61,7 +61,7 @@
 			z-index: -10;
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
-			background-image: url(https://s2.loli.net/2022/04/10/oT7dqnpMV2glC6x.png);
+			background-image: url(https://s2.loli.net/2022/04/19/FzIkP2clOdmU5Tw.jpg);
 		}
 		.content{
 			position: fixed;

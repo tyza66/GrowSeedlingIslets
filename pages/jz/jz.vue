@@ -4,19 +4,19 @@
 		<view class="bg"></view>
 		<view class="content">
 			<view class="d1">
-				<image class="dao" @click="shui" src="https://s2.loli.net/2022/04/10/MlO6PqoRfbmSyXx.png"></image>
+				<image class="dao" @click="shui" src="https://s2.loli.net/2022/04/19/gerEIpuoKVs3nHW.png"></image>
 				<p class="wenzi">小岛水吧</p>
 			</view>
 			<view class="d2">
-				<image class="dao" @click="jia()" src="https://s2.loli.net/2022/04/10/2d5BImuwxNiLDnU.png"></image>
+				<image class="dao" @click="jia()" src="https://s2.loli.net/2022/04/19/1TEeawvmI2NFOG4.png"></image>
 				<p class="wenzi">小岛加油站</p>
 			</view>
 			<view class="d3">
-				<image class="dao" @click="chao()" src="https://s2.loli.net/2022/04/10/FYnP8tolv9TQEyC.png"></image>
+				<image class="dao" @click="chao()" src="https://s2.loli.net/2022/04/19/cohYJRFsDa28C7L.png"></image>
 				<p class="wenzi">小岛超市</p>
 			</view>
 			<view class="d4">
-				<image class="dao" @click="you()" src="https://s2.loli.net/2022/04/10/njN2CBDp8TMcyi4.png"></image>
+				<image class="dao" @click="you()" src="https://s2.loli.net/2022/04/19/FviboLchV4rslw7.png"></image>
 				<p class="wenzi">小岛邮箱</p>
 			</view>
 		</view>
@@ -70,7 +70,7 @@
 			z-index: -10;
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
-			background-image: url(https://s2.loli.net/2022/04/10/bwJKW14tvefyR3Y.png);
+			background-image: url(https://s2.loli.net/2022/04/19/CJRhub2GdBmHwTP.jpg);
 		}
 		.content{
 			position: fixed;
@@ -85,6 +85,9 @@
 		.wenzi{
 			text-align: center;
 			font-weight: 400;
+			font-size: 40rpx;
+			font-family: '幼圆';
+			color: #006600;
 		}
 		.d1{
 			position: absolute;
