@@ -79,22 +79,22 @@
 			width: 100%;
 		}
 		.dao{
-			width: 200rpx;
-			height: 200rpx;
+			width: 300rpx;
+			height: 300rpx;
 		}
 		.wenzi{
 			text-align: center;
-			font-weight: 400;
-			font-size: 40rpx;
-			font-family: '幼圆';
+			font-weight: 600;
+			font-size: 30rpx;
 			color: #006600;
+			margin-top: -15rpx;
 		}
 		.d1{
 			position: absolute;
-			width: 230rpx;
-			height: 230rpx;
-			left: 90rpx;
-			top: 255rpx;
+			width: 300rpx;
+			height: 330rpx;
+			left: 30rpx;
+			top: 225rpx;
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
@@ -102,10 +102,10 @@
 		}
 		.d2{
 			position: absolute;
-			width: 230rpx;
-			height: 230rpx;
-			left: 130rpx;
-			top: 495rpx;
+			width: 300rpx;
+			height: 330rpx;
+			left: 100rpx;
+			top: 605rpx;
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
@@ -113,10 +113,10 @@
 		}
 		.d3{
 			position: absolute;
-			width: 230rpx;
-			height: 230rpx;
-			left: 380rpx;
-			top: 325rpx;
+			width: 300rpx;
+			height: 330rpx;
+			left: 350rpx;
+			top: 305rpx;
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
@@ -124,10 +124,10 @@
 		}
 		.d4{
 			position: absolute;
-			width: 230rpx;
-			height: 230rpx;
-			left: 350rpx;
-			top: 575rpx;
+			width: 300rpx;
+			height: 330rpx;
+			left: 380rpx;
+			top: 675rpx;
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
